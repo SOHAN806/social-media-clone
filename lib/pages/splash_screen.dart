@@ -32,7 +32,7 @@ class _SplashScreenState extends State<SplashScreen> {
             crossAxisAlignment: CrossAxisAlignment.center,
             children: [
               const SizedBox(
-                height: 315,
+                height: 375,
               ),
               const CircularProgressIndicator(
                 color: Colors.white,
